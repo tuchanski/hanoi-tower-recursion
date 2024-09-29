@@ -1,5 +1,5 @@
 
-# Jogo da Torre de Hanói em Python
+# Hanoi Tower Recursion ♜♜♜
 
 Este projeto é uma implementação em Python do famoso problema das Torres de Hanói. O programa permite que o usuário calcule o número mínimo de movimentos necessários para resolver o problema com uma quantidade personalizada de discos utilizando recursividade.
 
